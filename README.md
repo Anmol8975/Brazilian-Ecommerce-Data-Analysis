@@ -83,7 +83,7 @@ Key Visuals & KPIs:
 
 💳 Payment method analysis
 
-Business Questions Answered:
+## ❓ Business Questions Answered:
 
 * Is faster delivery associated with higher review scores?
 
@@ -150,5 +150,6 @@ You are free to use, modify, and distribute this project with proper attribution
 👤 Author
 
 Anmol Verma
+
 Aspiring Data Analyst
 Skills: SQL | Power BI | Excel | Data Analysis | Data Visualization
