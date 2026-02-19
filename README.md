@@ -116,6 +116,7 @@ Key Visuals & KPIs:
 * Delayed deliveries significantly impact customer satisfaction
 
 🚀 How to Use This Project
+
 1️⃣ Load the SQL File
 
 Create a PostgreSQL database
